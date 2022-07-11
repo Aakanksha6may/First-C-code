@@ -1,2 +1,9 @@
-# First-C-code
-First C coding - Hello World
+#include<stdio.h> 
+
+void main()
+
+{
+
+printf("hello world");
+
+}
